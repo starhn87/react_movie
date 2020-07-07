@@ -2,4 +2,3 @@
 
 React JS Fundamentals Course
 
-Movie App Using React
